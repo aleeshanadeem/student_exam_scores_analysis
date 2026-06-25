@@ -19,4 +19,4 @@ This machine learning project predicts student exam scores based on:
 - Streamlit
 
 ## Author
-Hamid
+Aleesha Nadeem
