@@ -1,16 +1,22 @@
-# Student Exam Score Predictor
+# 🎓 Student Exam Score Predictor
 
-Machine Learning project that predicts student exam scores based on study hours, attendance, sleep hours, and previous scores.
+## Live Demo
+🔗 [Open Web App]([https://YOUR-STREAMLIT-LINK.streamlit.app](https://2zexyhfcqx5gfyrb8cpjkg.streamlit.app/))
 
-## Tools Used
+## Project Overview
+This machine learning project predicts student exam scores based on:
+
+- Hours Studied
+- Sleep Hours
+- Attendance Percentage
+- Previous Scores
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-Learn
 - Streamlit
 
-## Dataset
-Student Exam Scores Dataset
-
 ## Author
-Aleesha Nadeem
+Hamid
