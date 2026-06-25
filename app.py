@@ -22,6 +22,15 @@ if st.button("Predict Score"):
 
     percentage = (prediction[0] / 51.3) * 100
 
-    st.success(
-        f"Predicted Exam Score: {prediction[0]:.2f} / 51.3 ({percentage:.1f}%)"
-    )
+    if percentage >= 90:
+        grade = "A+"
+    elif percentage >= 80:
+        grade = "A"
+    elif percentage >= 70:
+        grade = "B"
+    elif percentage >= 60:
+        grade = "C"
+    else:
+        grade = "D"
+
+    st.success(f"Predicted Result: {percentage:.1f}% | Grade: {grade}")
