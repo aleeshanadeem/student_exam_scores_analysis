@@ -35,7 +35,7 @@ if st.button("Predict Score"):
 
     st.success(f"Predicted Result: {percentage:.1f}% | Grade: {grade}")
 
-st.sidebar.markdown("## 👩‍💻 Author")
+st.sidebar.markdown("## 👩‍💻 Author:")
 
 st.sidebar.markdown(
     """
