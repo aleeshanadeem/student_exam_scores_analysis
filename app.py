@@ -35,7 +35,17 @@ if st.button("Predict Score"):
 
     st.success(f"Predicted Result: {percentage:.1f}% | Grade: {grade}")
 
+st.sidebar.markdown("## 👩‍💻 Author")
 
-st.sidebar.markdown("##  Author")
-st.sidebar.write("**Aleesha Nadeem 2(AN)K**")
-st.sidebar.write("Student Exam Score Predictor")
+st.sidebar.markdown(
+    """
+    <div style="text-align: center;">
+        <h4 style="margin-bottom:0;">Aleesha Nadeem</h4>
+        <p style="margin-top:0;"><b>2(AN)K</b></p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
+st.sidebar.markdown("---")
+st.sidebar.write("🎓 Student Exam Score Predictor")
