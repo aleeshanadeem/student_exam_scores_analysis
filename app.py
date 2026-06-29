@@ -36,5 +36,6 @@ if st.button("Predict Score"):
     st.success(f"Predicted Result: {percentage:.1f}% | Grade: {grade}")
 
 
-st.title("🎓 Student Exam Score Predictor")
-st.caption("Created by **Aleesha Nadeem 2(AN)K**")
+st.sidebar.markdown("##  Author")
+st.sidebar.write("**Aleesha Nadeem 2(AN)K**")
+st.sidebar.write("Student Exam Score Predictor")
