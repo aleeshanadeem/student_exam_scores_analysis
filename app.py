@@ -48,4 +48,6 @@ st.sidebar.markdown(
 )
 
 st.sidebar.markdown("---")
-st.sidebar.write("🎓 Student Exam Score Predictor")
+st.sidebar.markdown("### 📂 Project")
+st.sidebar.write("Student Exam Score Predictor")
+st.sidebar.caption("Machine Learning Web Application")
