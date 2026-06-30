@@ -3,6 +3,9 @@
 ## Live Demo
 https://2zexyhfcqx5gfyrb8cpjkg.streamlit.app/
 
+Article:
+
+https://medium.com/@naleesha650/building-a-student-exam-score-predictor-with-python-scikit-learn-and-streamlit-from-data-f4b5276726c2
 ## Project Overview
 This machine learning project predicts student exam scores based on:
 
