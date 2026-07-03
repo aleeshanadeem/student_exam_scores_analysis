@@ -1,11 +1,23 @@
 # 🎓 Student Exam Score Predictor
+---
 
 ## Live Demo
 https://2zexyhfcqx5gfyrb8cpjkg.streamlit.app/
 
+----
+
 ## Article:
 
 https://medium.com/@naleesha650/building-a-student-exam-score-predictor-with-python-scikit-learn-and-streamlit-from-data-f4b5276726c2
+
+---
+
+Kaggle Writeup:
+
+https://www.kaggle.com/writeups/nalisha/student-exam-score-predictor-end-to-end-machin
+
+-----
+
 ## Project Overview
 This machine learning project predicts student exam scores based on:
 
