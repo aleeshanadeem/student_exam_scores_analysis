@@ -12,7 +12,7 @@ https://medium.com/@naleesha650/building-a-student-exam-score-predictor-with-pyt
 
 ---
 
-Kaggle Writeup:
+## Kaggle Writeup:
 
 https://www.kaggle.com/writeups/nalisha/student-exam-score-predictor-end-to-end-machin
 
