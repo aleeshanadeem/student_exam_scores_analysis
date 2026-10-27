@@ -127,36 +127,8 @@ The notebook uses the following Python libraries:
 
 **Streamlit** is used for the deployed web application.
 
-## ⚙️ Installation and Setup
 
-### 1. Clone the repository
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_PROJECT_FOLDER>
-```
-
-Replace the placeholders with your actual GitHub repository URL and project folder name.
-
-### 2. Create a virtual environment
-
-```bash
-python -m venv venv
-```
-
-Activate it on Windows:
-
-```bash
-venv\Scripts\activate
-```
-
-### 3. Install the required libraries
-
-```bash
-pip install pandas numpy matplotlib scikit-learn joblib streamlit
-```
-
-### 4. Prepare the dataset
+### 3. Prepare the dataset
 
 Download the dataset and update the CSV file path in your code to match your local dataset location.
 
@@ -166,7 +138,7 @@ For example:
 df = pd.read_csv("student_exam_scores.csv")
 ```
 
-### 5. Run the Streamlit application
+### 4. Run the Streamlit application
 
 If the main application file is named `app.py`, run:
 
