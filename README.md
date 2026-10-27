@@ -3,12 +3,7 @@
 
 An end-to-end Machine Learning project that analyzes student academic performance and predicts exam scores using study habits, attendance, sleep duration, and previous academic results.
 
-🔗 **Live Demo:** [Try the Streamlit Application](https://2zexyhfcqx5gfyrb8cpjkg.streamlit.app/)
-
-## Article:
-
-https://medium.com/@naleesha650/building-a-student-exam-score-predictor-with-python-scikit-learn-and-streamlit-from-data-f4b5276726c2
-
+🔗 **Live Demo:** [Try Application](https://2zexyhfcqx5gfyrb8cpjkg.streamlit.app/)
 
 ## 📌 Project Overview
 
